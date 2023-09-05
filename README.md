@@ -5,3 +5,4 @@
 # aku senang sekali belajar github
 # aku sangat semangat
 # percobaan three way merge
+# mari coba buat three way merge
