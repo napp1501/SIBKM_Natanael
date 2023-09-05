@@ -4,3 +4,4 @@
 # Mari Belajar github
 # aku senang sekali belajar github
 # aku sangat semangat
+# percobaan three way merge
